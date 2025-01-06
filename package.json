@@ -1,6 +1,6 @@
 {
-  "name": "windows-blurbehind",
-  "version": "2.0.0",
+  "name": "@tabby-gang/windows-blurbehind",
+  "version": "3.1.0",
   "description": "JavaScript bindings for DwmEnableBlurBehindWindow and DwmExtendFrameIntoClientArea",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
